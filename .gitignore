@@ -104,3 +104,12 @@ InitTestScene*.unity*
 **/[Ll]ogs/
 **/[Uu]ser[Ss]ettings/
 **/[Bb]uild*/
+
+.DS_Store
+**/.DS_Store
+
+# VS Code
+.vscode/
+
+# Unity / C# workspace noise
+*.slnx
